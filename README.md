@@ -1,4 +1,4 @@
-### Hi there 👋! I'm [**@ilgiz**](https://github.com/ilgiz_n).
+### Hi there 👋! I'm [**@ilgiz**](https://github.com/ilgiz-n).
 
 - 🐍 I'm a python developer.
 - 📫 How to reach me: iznigmatullin@gmail.com
