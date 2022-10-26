@@ -1,9 +1,7 @@
 ### Hi there 👋! I'm [**@ilgiz**](https://github.com/ilgiz_n).
 
 - 🐍 I'm a python developer.
-
-
-### Hi there 👋
+- 📫 How to reach me: iznigmatullin@gmail.com
 
 <!--
 **ilgiz-n/ilgiz-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
