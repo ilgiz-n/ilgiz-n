@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm [**@ilgiz**](https://github.com/ilgiz-n).
 
-- 🐍 I'm a python developer.
+- 🐍 A python developer with background in the construction industry. 
 - 📫 How to reach me: iznigmatullin@gmail.com
 
 <!--
